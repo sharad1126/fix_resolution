@@ -1,1 +1,1 @@
-# fix_resolutoin
+# fix_resolution
